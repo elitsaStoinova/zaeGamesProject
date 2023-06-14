@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\ZaeGames_project\Games\Games\obj\Debug\net5.0-windows\Games.csprojAssemblyReference.cache
+C:\Users\user\Desktop\ZaeGames_project\Games\Games\obj\Debug\net5.0-windows\Games.CasinoHoldem.resources
+C:\Users\user\Desktop\ZaeGames_project\Games\Games\obj\Debug\net5.0-windows\Games.GamesHub.resources
+C:\Users\user\Desktop\ZaeGames_project\Games\Games\obj\Debug\net5.0-windows\Games.LogInForm.resources
+C:\Users\user\Desktop\ZaeGames_project\Games\Games\obj\Debug\net5.0-windows\Games.SingUpForm.resources
+C:\Users\user\Desktop\ZaeGames_project\Games\Games\obj\Debug\net5.0-windows\Games.csproj.GenerateResource.cache
